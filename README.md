@@ -10,13 +10,11 @@ This project implements a **Principal Component Analysis (PCA)** on real-world s
 ├── doc/
 │ ├── DataDepenses (1).csv # Raw expenditure dataset
 │ ├── Devoir_Maison_ULB.pdf # Assignment description
-│ └── doc # Additional documentation
 ├── src/
 │ ├── ACP_en_python.py # Main PCA implementation in Python
-│ ├── Devoir_Maison_Question5.pdf # Report for Question 5
-│ ├── Devoir_maison_stat2.pdf # Statistics report
+│ ├── Devoir_Maison_Question5.pdf # Answer question 5
+│ ├── Devoir_maison_stat2.pdf # Homework answers
 │ ├── report_acp.pdf # Full PCA analysis report
-│ └── src # Additional source files
 └── README.md
 
 ```
